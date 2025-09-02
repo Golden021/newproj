@@ -11,7 +11,7 @@ setup(
     description="A fast, interactive Python project generator",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Golden021/newproj.git",
+    url="https://github.com/Golden021/newproj",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
@@ -33,3 +33,4 @@ setup(
     },
     install_requires=[],
     keywords="python project generator boilerplate template",
+)  
