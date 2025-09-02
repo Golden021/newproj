@@ -1,0 +1,12 @@
+setup.py
+newproj/__init__.py
+newproj/cli.py
+newproj/generator.py
+newproj.egg-info/PKG-INFO
+newproj.egg-info/SOURCES.txt
+newproj.egg-info/dependency_links.txt
+newproj.egg-info/entry_points.txt
+newproj.egg-info/top_level.txt
+newproj/templates/__init__.py
+newproj/templates/basic.py
+newproj/templates/pygame_template.py
