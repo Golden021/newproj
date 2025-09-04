@@ -1,8 +1,13 @@
 ﻿from setuptools import setup, find_packages
+import os
 
-with open("README.md", "r", encoding="utf-8") as fh:
-    long_description = fh.read()
-
+# Read the README file
+readme_path = os.path.join("README", "README.md")
+if os.path.exists(readme_path):
+    with open(readme_path, "r", encoding="utf-8") as fh:
+        long_description = fh.read()
+else:
+    long_description = "A Python project boilerplate generator"
 setup(
     name="newproj",
     version="1.0.0",
