@@ -1,7 +1,7 @@
 ## 📋 **2. Instructions.md** (Detailed Usage)
 
 ```markdown
-# File: C:\Users\lfgud\Documents\Pytool\README\Instructions.md
+
 # Instructions 📋
 
 ## Installation
